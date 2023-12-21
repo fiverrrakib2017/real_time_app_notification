@@ -1,0 +1,307 @@
+[20-Jul-2021 11:32:43 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/manage_servers.php on line 2
+[20-Jul-2021 11:32:43 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/manage_servers.php on line 2
+[20-Jul-2021 11:32:43 America/Boise] PHP Fatal error:  require(): Failed opening required 'include/header.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/manage_servers.php on line 2
+[20-Jul-2021 11:32:47 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/manage_servers.php on line 2
+[20-Jul-2021 11:32:47 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/manage_servers.php on line 2
+[20-Jul-2021 11:32:47 America/Boise] PHP Fatal error:  require(): Failed opening required 'include/header.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/manage_servers.php on line 2
+[25-Jul-2021 05:36:56 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/update_server.php on line 2
+[25-Jul-2021 05:36:56 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/update_server.php on line 2
+[25-Jul-2021 05:36:56 America/Boise] PHP Fatal error:  require(): Failed opening required 'include/header.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/update_server.php on line 2
+[25-Jul-2021 05:38:25 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/update_server.php on line 2
+[25-Jul-2021 05:38:25 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/update_server.php on line 2
+[25-Jul-2021 05:38:25 America/Boise] PHP Fatal error:  require(): Failed opening required 'include/header.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/update_server.php on line 2
+[25-Jul-2021 05:38:54 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/update_server.php on line 2
+[25-Jul-2021 05:38:54 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/update_server.php on line 2
+[25-Jul-2021 05:38:54 America/Boise] PHP Fatal error:  require(): Failed opening required 'include/header.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/update_server.php on line 2
+[25-Jul-2021 05:39:39 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/update_server.php on line 3
+[25-Jul-2021 05:39:39 America/Boise] PHP Warning:  require(include/header.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/update_server.php on line 3
+[25-Jul-2021 05:39:39 America/Boise] PHP Fatal error:  require(): Failed opening required 'include/header.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/update_server.php on line 3
+[25-Jul-2021 05:46:07 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/delete_server.php on line 5
+[25-Jul-2021 05:46:07 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/delete_server.php on line 5
+[25-Jul-2021 05:46:07 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/delete_server.php on line 5
+[25-Jul-2021 05:46:07 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/delete_server.php on line 7
+[25-Jul-2021 05:46:07 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/delete_server.php on line 7
+[07-Aug-2021 23:03:12 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:03:12 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:03:12 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:03:12 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 35
+[07-Aug-2021 23:03:12 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 35
+[07-Aug-2021 23:03:48 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:03:48 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:03:48 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:03:48 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 35
+[07-Aug-2021 23:03:48 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 35
+[07-Aug-2021 23:04:22 America/Boise] PHP Warning:  include(include/connection.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:04:22 America/Boise] PHP Warning:  include(include/connection.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:04:22 America/Boise] PHP Warning:  include(): Failed opening 'include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:04:22 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 35
+[07-Aug-2021 23:04:22 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 35
+[07-Aug-2021 23:04:30 America/Boise] PHP Warning:  include(include/connection.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:04:30 America/Boise] PHP Warning:  include(include/connection.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:04:30 America/Boise] PHP Warning:  include(): Failed opening 'include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:04:30 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 35
+[07-Aug-2021 23:04:30 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 35
+[07-Aug-2021 23:04:45 America/Boise] PHP Warning:  include(include/connection.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:04:45 America/Boise] PHP Warning:  include(include/connection.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:04:45 America/Boise] PHP Warning:  include(): Failed opening 'include/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:04:45 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:04:45 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:05:59 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:05:59 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:05:59 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:05:59 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:05:59 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:06:12 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:06:12 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:06:12 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:06:12 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:06:12 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:27:19 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:13
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(13): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 13
+[07-Aug-2021 23:27:28 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:13
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(13): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 13
+[07-Aug-2021 23:27:45 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:13
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(13): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 13
+[07-Aug-2021 23:28:04 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:13
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(13): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 13
+[07-Aug-2021 23:28:44 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:13
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(13): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 13
+[07-Aug-2021 23:33:00 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:13
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(13): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 13
+[07-Aug-2021 23:40:50 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:40:50 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:40:50 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:40:50 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:40:50 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:40:53 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:40:53 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:40:53 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:40:53 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:40:53 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:42:19 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:12
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(12): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 12
+[07-Aug-2021 23:44:05 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:12
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(12): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 12
+[07-Aug-2021 23:44:26 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:12
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(12): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 12
+[07-Aug-2021 23:44:57 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:44:57 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:44:57 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:44:57 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:44:57 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:45:05 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:05 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:05 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:05 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:45:05 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:45:28 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:28 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:28 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:28 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:45:28 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:45:29 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:29 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:29 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:29 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:45:29 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:45:38 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:38 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:38 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:38 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:45:38 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[07-Aug-2021 23:45:46 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:46 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:46 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[07-Aug-2021 23:45:46 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 50
+[07-Aug-2021 23:45:46 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 50
+[07-Aug-2021 23:48:33 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:12
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(12): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 12
+[07-Aug-2021 23:49:25 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:12
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(12): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 12
+[07-Aug-2021 23:49:27 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:12
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(12): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 12
+[07-Aug-2021 23:51:03 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:12
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(12): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 12
+[08-Aug-2021 00:04:07 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 9
+[08-Aug-2021 00:04:07 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 9
+[08-Aug-2021 00:07:06 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/includes/dbconfig.php:12
+Stack trace:
+#0 /home2/myazainf/public_html/test/includes/dbconfig.php(12): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/includes/dbconfig.php on line 12
+[08-Aug-2021 00:11:02 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'myazainf_test.setting' doesn't exist in /home2/myazainf/public_html/test/include/dbconfig.php:12
+Stack trace:
+#0 /home2/myazainf/public_html/test/include/dbconfig.php(12): mysqli->query('select * from s...')
+#1 /home2/myazainf/public_html/test/api.php(7): include('/home2/myazainf...')
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/include/dbconfig.php on line 12
+[08-Aug-2021 00:14:44 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[08-Aug-2021 00:14:44 America/Boise] PHP Warning:  include(include/dbconfig.php): failed to open stream: No such file or directory in /home2/myazainf/public_html/test/api.php on line 7
+[08-Aug-2021 00:14:44 America/Boise] PHP Warning:  include(): Failed opening 'include/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home2/myazainf/public_html/test/api.php on line 7
+[08-Aug-2021 00:14:44 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[08-Aug-2021 00:14:44 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home2/myazainf/public_html/test/api.php on line 17
+[08-Aug-2021 00:26:16 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ServerStatus' in 'where clause' in /home2/myazainf/public_html/test/api.php:17
+Stack trace:
+#0 /home2/myazainf/public_html/test/api.php(17): mysqli_query(Object(mysqli), 'SELECT * FROM s...')
+#1 /home2/myazainf/public_html/test/api.php(8): get_all_servers()
+#2 {main}
+  thrown in /home2/myazainf/public_html/test/api.php on line 17
+[13-Aug-2021 04:44:26 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[13-Aug-2021 04:44:27 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[13-Aug-2021 04:44:27 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[16-Aug-2021 14:29:26 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[16-Aug-2021 14:29:26 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[16-Aug-2021 14:29:26 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[17-Aug-2021 07:56:44 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[17-Aug-2021 07:56:44 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[17-Aug-2021 07:56:44 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[25-Aug-2021 10:04:40 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[25-Aug-2021 10:04:40 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[25-Aug-2021 10:04:40 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[25-Aug-2021 10:06:34 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[25-Aug-2021 10:06:34 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[25-Aug-2021 10:06:34 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[25-Aug-2021 10:08:05 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[25-Aug-2021 10:08:05 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[25-Aug-2021 10:08:05 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:40:21 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 12:40:21 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:40:21 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:41:32 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 12:41:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:41:32 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:43:43 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 12:43:43 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:43:43 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:43:55 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 12:43:55 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:43:55 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:44:58 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 12:44:58 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:44:58 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:59:07 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 12:59:07 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:59:07 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:59:30 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 12:59:30 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 12:59:30 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:01:45 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:01:45 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:01:45 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:02:10 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:02:10 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:02:10 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:03:27 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:03:27 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:03:27 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:04:25 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 14
+[28-Aug-2021 13:04:25 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 14
+[28-Aug-2021 13:08:17 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:08:17 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:08:17 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:09:26 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:09:26 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:09:26 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:09:53 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:09:53 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:09:53 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:10:00 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:10:00 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:10:00 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:10:51 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:10:51 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 33
+[28-Aug-2021 13:10:51 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 33
+[28-Aug-2021 13:10:53 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:10:53 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 33
+[28-Aug-2021 13:10:53 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 33
+[28-Aug-2021 13:11:02 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:11:02 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 33
+[28-Aug-2021 13:11:02 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 33
+[28-Aug-2021 13:11:46 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:11:46 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:11:46 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:13:29 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:13:29 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:13:29 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:14:59 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:14:59 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:14:59 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/test/api.php on line 17
+[28-Aug-2021 13:16:36 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[28-Aug-2021 13:16:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home4/azacodes/public_html/test/includes/dbconfig.php:13
+Stack trace:
+#0 /home4/azacodes/public_html/test/api.php(7): include()
+#1 {main}
+  thrown in /home4/azacodes/public_html/test/includes/dbconfig.php on line 13
+[28-Aug-2021 13:17:36 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'azacodes_test.setting' doesn't exist in /home4/azacodes/public_html/test/includes/dbconfig.php:13
+Stack trace:
+#0 /home4/azacodes/public_html/test/includes/dbconfig.php(13): mysqli->query('select * from s...')
+#1 /home4/azacodes/public_html/test/api.php(7): include('/home4/azacodes...')
+#2 {main}
+  thrown in /home4/azacodes/public_html/test/includes/dbconfig.php on line 13
+[28-Aug-2021 13:17:50 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'azacodes_test.setting' doesn't exist in /home4/azacodes/public_html/test/includes/dbconfig.php:13
+Stack trace:
+#0 /home4/azacodes/public_html/test/includes/dbconfig.php(13): mysqli->query('select * from s...')
+#1 /home4/azacodes/public_html/test/api.php(7): include('/home4/azacodes...')
+#2 {main}
+  thrown in /home4/azacodes/public_html/test/includes/dbconfig.php on line 13
+[28-Aug-2021 13:30:32 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[02-Sep-2021 04:52:20 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[17-Oct-2021 02:39:20 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[17-Oct-2021 02:39:20 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/boomvpn-myazainfo-com/api.php on line 17
+[17-Oct-2021 02:39:20 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/boomvpn-myazainfo-com/api.php on line 17
+[17-Oct-2021 02:39:26 America/Boise] Access denied for user 'myazainf_root'@'localhost' (using password: YES)
+[17-Oct-2021 02:39:26 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/boomvpn-myazainfo-com/api.php on line 17
+[17-Oct-2021 02:39:26 America/Boise] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/azacodes/public_html/boomvpn-myazainfo-com/api.php on line 17
